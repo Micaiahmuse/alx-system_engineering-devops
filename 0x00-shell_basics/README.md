@@ -1,0 +1,1 @@
+script_that_prints_the_absolute_path_name_of_the_current_working _directory
